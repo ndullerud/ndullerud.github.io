@@ -3,8 +3,4 @@ logo: /assets/img/natalie.jpg
 description:
 show_downloads: false
 google_analytics:
-remote_theme: jekyll-theme-minimal
-plugins:
-- jekyll-remote-theme
-
 theme: jekyll-theme-minimal
