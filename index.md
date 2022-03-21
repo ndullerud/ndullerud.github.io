@@ -22,8 +22,7 @@ Choquette-Choo, C.A.\*, **Dullerud, N.**\*, Dziedzic, A.\*, Zhang, Y.\*, Jha, S.
 
 Jonsson, V.D., Ng, R., **Dullerud, N.**, Wong, R.A., Hibbard, J., Wang, D., Aguilar, B., Starr, R., Weng, L., Alizadeh, D., Forman, S., Badie, B., Brown, C.E. (2022). CAR T cell therapy drives endogenous locoregional T cell dynamics in a responding patient in glioblastoma. [In Review *Nature Medicine* 2022]
 
-\*, † Equal author contribution, authors listed alphabetically by last name
-
+\*, † Equal author contribution, authors listed alphabetically by last name  
 \*\* All authors listed alphabetically
 
 # Recorded Presentations
