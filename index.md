@@ -1,5 +1,5 @@
 # About
-I am currently completing my Master’s degree in Computer Science at University of Toronto under supervision by Dr. [Nicolas Papernot](https://www.papernot.fr/) in the [CleverHans Lab](https://cleverhans-lab.github.io/) and Dr. [Marzyeh Ghassemi](https://healthyml.org/marzyeh/) in the [HealthyML lab](https://healthyml.org/). Previously, I received my B.S. in Mathematics from University of Southern California, with minors in Chemistry and Computer Science.
+I am a first-year PhD student at Stanford University. I recently completed my Master’s degree in Computer Science at University of Toronto under supervision by Dr. [Nicolas Papernot](https://www.papernot.fr/) in the [CleverHans Lab](https://cleverhans-lab.github.io/) and Dr. [Marzyeh Ghassemi](https://healthyml.org/marzyeh/) in the [HealthyML lab](https://healthyml.org/). Previously, I received my B.S. in Mathematics from University of Southern California, with minors in Chemistry and Computer Science.
 
 Through the past several years, my research interests have spanned statistical learning theory; algorithmic fairness and equity in machine learning; differential privacy; representation learning; optimization; and generalizable applications of machine learning in the healthcare and biological domains. At the moment, I continue to be motivated by a broad range of topics and research questions under the general umbrella of mathematics and machine learning.
 
@@ -36,4 +36,4 @@ Here are some blog posts which I have co-authored:
 * [Arbitrating the integrity of stochastic gradient descent with proof-of-learning](http://www.cleverhans.io/2021/07/30/pol.html)
 
 # Contact
-The best way to reach me is via email: natalie [dot] dullerud [at] mail [dot] utoronto [dot] ca
+The best way to reach me is via email: natalie [dot] dullerud [at] stanford [dot] edu
