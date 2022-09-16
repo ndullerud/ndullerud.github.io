@@ -26,6 +26,8 @@ Jonsson, V.D., Ng, R., **Dullerud, N.**, Wong, R.A., Hibbard, J., Wang, D., Agui
 \*\* All authors listed alphabetically
 
 # Recorded Presentations
+[Fairness in representation learning—A study in evaluation and mitigation of bias in deep metric learning](https://www.youtube.com/watch?v=82uoN0muHto), *MedAI Stanford*, Virtual, 2022
+
 [CaPC—Confidential and Private Collaborative Learning](https://www.oreilly.com/library/view/ai-superstream-series/0636920672319/), *AI Superstream Series: Securing AI*, O’Reilly Media Sponsored by Intel, Virtual, 2021
 
 [Proof-Of-Learning: Definitions and Practice](https://www.youtube.com/watch?v=4h_76xTTPvk), *Proceedings of the 42nd IEEE Symposium on Security and Privacy*, Virtual, 2021
