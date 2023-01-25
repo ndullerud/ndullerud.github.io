@@ -4,6 +4,8 @@ I am a first-year PhD student at Stanford University. I recently completed my Ma
 Through the past several years, my research interests have spanned statistical learning theory; algorithmic fairness and equity in machine learning; differential privacy; representation learning; optimization; and generalizable applications of machine learning in the healthcare and biological domains. At the moment, I continue to be motivated by a broad range of topics and research questions under the general umbrella of mathematics and machine learning.
 
 # Publications
+**Dullerud, N.**\*, Shamsabadi, A. S.\*, Yaghini, M.\*, Wyllie, S., Aïvodji, U., Alaagib, A., Gambs, S., Papernot, N. (2022) Washing The Unwashable: On the (Im)possibility of Fairwashing Detection. *Proceedings of the 36th Conference on Neural Information Processing Systems*.
+
 **Dullerud, N.**, Roth, K., Hamidieh, K., Papernot, N., Ghassemi, M. (2022). Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning. *Proceedings of the 10th International Conference on Learning Representations*.
 
 \*\* Banerjee, I., Bhimireddy, A. R., Burns, J. L., Celi, L. A., Chen, L., Correa, R., **Dullerud, N.**, Ghassemi, M., Gichoya, J.W., Huang, S., Kuo, P., Lungren, M. P., Price, B. J., Purkayastha, S., Pyrros, A. A., Oakden-Rayner, L., Okechukwu, C., Seyyed-Kalantari, L., Trivedi, H., Wang, R., Zaiman, Z., Zhang, H. (2022). Reading Race: AI Recognizes Patient’s Racial Identity In Medical Images. *The Lancet Digital Health*.
