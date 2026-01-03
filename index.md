@@ -31,6 +31,9 @@ Brown, C. E., Alizadeh, D., Jonsson, V. D., Hibbard, J., Yahn, S., Wong, R. A., 
 
 **Dullerud, N.**, Jonsson, V.D. (2020). Cellular Immunotherapy Treatment Scheduling to Address Antigen Escape. *Proceedings of the 59th IEEE Conference on Decision and Control*.
 
+\*, † Equal author contribution, authors listed alphabetically by name  
+\*\* All authors listed alphabetically
+
 # Pre-prints
 
 Chen, E., Truong, S. T., **Dullerud, N.**, Koyejo, S., & Guestrin, C. (2025). Interactive Multi-Objective Probabilistic Preference Learning with Soft and Hard Bounds. *arXiv preprint arXiv:2506.21887*.
@@ -38,9 +41,6 @@ Chen, E., Truong, S. T., **Dullerud, N.**, Koyejo, S., & Guestrin, C. (2025). In
 Chen, E., **Dullerud, N.**, Niedermayr, T., Kidd, E., Senanayake, R., Koh, P. W., Koyejo, S., Guestrin, C. (2024). MoSH: Modeling Multi-Objective Tradeoffs with Soft and Hard Bounds. *arXiv preprint arXiv:2412.06154*.
 
 Jonsson, V. D., Ng, R. H., **Dullerud, N.**, Wong, R. A., Hibbard, J., Wang, D., Aguilar, B., Starr, R., Weng, L., Alizadeh, D., Forman, S. J., Badie, B., Brown, C. E. (2021). CAR T cell therapy drives endogenous locoregional T cell dynamics in a responding patient with glioblastoma. *BioRxiv preprint*.
-
-\*, † Equal author contribution, authors listed alphabetically by name  
-\*\* All authors listed alphabetically
 
 # Recorded Presentations
 [Fairness in representation learning—A study in evaluation and mitigation of bias in deep metric learning](https://www.youtube.com/watch?v=82uoN0muHto), *MedAI Stanford*, Virtual, 2022
